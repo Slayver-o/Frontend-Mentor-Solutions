@@ -6,6 +6,5 @@
 
 02 - [Blog Preview Card Main "Live"](https://blog-preview-card-mohamed-ahmed.netlify.app/)
 
-03 - [Social Links Profile "Live"](https://blog-preview-card-mohamed-ahmed.netlify.app/)
+03 - [Social Links Profile "Live"](https://social-links-profile-mohamed-ahmed-s.netlify.app/)
 
-04 - [Recipe Page Main "Live"](https://social-links-profile-mohamed-ahmed-s.netlify.app/)
