@@ -90,6 +90,12 @@ main .first-part img {
   color: hsl(24, 5%, 18%);
 }
 
+.first-part .lists {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .preparation-header {
   color: hsl(332, 51%, 32%);
   font-size: 1.8rem;
